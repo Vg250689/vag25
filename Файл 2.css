@@ -1,0 +1,21 @@
+title{
+    color: blueviolet;
+}
+
+h1 {
+    color: blue;
+    font-size: 22px;
+    font-weight: bolder;    
+}
+
+h2 {
+    color:green;
+    font-size: 20px;
+    font-weight: lighter;
+}
+    
+p {
+    color:orange;
+    font-size: 18px;
+    font-style: oblique;
+}
